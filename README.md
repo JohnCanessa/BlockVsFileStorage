@@ -7,7 +7,7 @@ file and block storage on a Windows machine.
 If interested and wish to make sense of this code
 I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/11/30/block-storage-vs-file-storage-part-1/
 
 Keep in mind that one of the best ways to learn is
 to read and experiment. Practice makes perfect.
